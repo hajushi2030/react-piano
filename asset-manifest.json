@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-piano/static/css/main.c001ab91.css",
+    "main.js": "/react-piano/static/js/main.5ad10abd.js",
+    "static/js/453.e448b2a0.chunk.js": "/react-piano/static/js/453.e448b2a0.chunk.js",
+    "static/media/logo.svg": "/react-piano/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-piano/index.html",
+    "main.c001ab91.css.map": "/react-piano/static/css/main.c001ab91.css.map",
+    "main.5ad10abd.js.map": "/react-piano/static/js/main.5ad10abd.js.map",
+    "453.e448b2a0.chunk.js.map": "/react-piano/static/js/453.e448b2a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c001ab91.css",
+    "static/js/main.5ad10abd.js"
+  ]
+}
